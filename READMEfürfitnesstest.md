@@ -7,7 +7,7 @@ Dieses Webprojekt ermöglicht es Benutzern, einen Fragebogen zu beantworten, der
 1. *Accueil Seite*: Dies ist die Startseite, die zwei Hauptoptionen bietet:
    - *Formular ausfüllen*: Weiterleitung zum Fragebogenformular.
    - *Client-Liste anzeigen*: Weiterleitung zur Übersicht über alle gespeicherten Clients.
-   - Bilder 
+     ![Startseite](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_175612_localhost.jpeg?raw=true)
 
 2. *Clients Seite*: Diese Seite listet alle gespeicherten Clients auf. Jeder Client kann bearbeitet oder gelöscht werden.
 3. Bild
