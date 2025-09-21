@@ -18,7 +18,7 @@ Dieses Webprojekt ermöglicht es Benutzern, einen Fragebogen zu beantworten, der
 
 7. *Fragebogen Seite (Form Questions)*: Auf dieser Seite beantworten Benutzer eine Reihe von Fragen zu ihrem Lebensstil (Ernährung, Bewegung, Schlaf, Stressniveau, etc.). Basierend auf den Antworten wird ein Score berechnet und eine Gesundheitsbewertung ausgegeben.
 8. ![formQuestions](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_18521_localhost.jpeg)
-9. ![Ergebnis]()
+9. ![Ergebnis](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_185437_localhost.jpeg)
 
 10. *Bearbeiten von Clients und Fragen*: Bestehende Clients können bearbeitet werden, sowohl ihre persönlichen Daten als auch ihre Antworten auf die Fragen. Änderungen werden in der Datenbank gespeichert.
 
@@ -71,4 +71,6 @@ Die grundlegenden CRUD-Operationen (Create, Read, Update, Delete) finden an folg
 ## Verzeichnisstruktur
 meine Backend Projekt findet in salleyesmine statt.
 meiner Freund Projekt findet in src statt.
+## KI Verwendung
+ChatGPT in	Planung, Codeoptimierung, README
 
