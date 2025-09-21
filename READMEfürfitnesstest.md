@@ -10,7 +10,7 @@ Dieses Webprojekt ermöglicht es Benutzern, einen Fragebogen zu beantworten, der
      ![Startseite](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_175612_localhost.jpeg?raw=true)
 
 2. *Clients Seite*: Diese Seite listet alle gespeicherten Clients auf. Jeder Client kann bearbeitet oder gelöscht werden.
-3. Bild
+3. ![kundenliste](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_183957_localhost.jpeg?raw=true)
 
 4. *Formular für Clients*: Auf dieser Seite können Benutzer ihre persönlichen Daten eingeben, wie Name, Geschlecht, Größe, Gewicht usw. Diese Daten werden anschließend zur Berechnung des idealen Gewichts und zur Ausgabe von Empfehlungen verwendet.
 5. bild und bild
