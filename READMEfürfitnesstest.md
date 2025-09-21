@@ -13,12 +13,13 @@ Dieses Webprojekt ermöglicht es Benutzern, einen Fragebogen zu beantworten, der
 3. ![kundenliste](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_183957_localhost.jpeg?raw=true)
 
 4. *Formular für Clients*: Auf dieser Seite können Benutzer ihre persönlichen Daten eingeben, wie Name, Geschlecht, Größe, Gewicht usw. Diese Daten werden anschließend zur Berechnung des idealen Gewichts und zur Ausgabe von Empfehlungen verwendet.
-5. bild und bild
+5. ![formClient](https://github.com/Yas-maker29/Nes-project/blob/main/Bildschirmfoto_21-9-2025_184510_localhost.jpeg)
+6. ![Idealgewicht](
 
-6. *Fragebogen Seite (Form Questions)*: Auf dieser Seite beantworten Benutzer eine Reihe von Fragen zu ihrem Lebensstil (Ernährung, Bewegung, Schlaf, Stressniveau, etc.). Basierend auf den Antworten wird ein Score berechnet und eine Gesundheitsbewertung ausgegeben.
-7. bild und bild
+7. *Fragebogen Seite (Form Questions)*: Auf dieser Seite beantworten Benutzer eine Reihe von Fragen zu ihrem Lebensstil (Ernährung, Bewegung, Schlaf, Stressniveau, etc.). Basierend auf den Antworten wird ein Score berechnet und eine Gesundheitsbewertung ausgegeben.
+8. bild und bild
 
-8. *Bearbeiten von Clients und Fragen*: Bestehende Clients können bearbeitet werden, sowohl ihre persönlichen Daten als auch ihre Antworten auf die Fragen. Änderungen werden in der Datenbank gespeichert.
+9. *Bearbeiten von Clients und Fragen*: Bestehende Clients können bearbeitet werden, sowohl ihre persönlichen Daten als auch ihre Antworten auf die Fragen. Änderungen werden in der Datenbank gespeichert.
 
 
 
